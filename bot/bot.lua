@@ -240,7 +240,10 @@ function create_config( )
       "spam",
       "spanish_lang",
       "version",
-      "italian_lang"
+      "italian_lang",
+      "onservice",
+      "inrealm",
+      "ingroup"
      },
     sudo_users = {81444630},
     admin_users = {},
